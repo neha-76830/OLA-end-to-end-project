@@ -1,5 +1,8 @@
 # OLA-end-to-end-project
 # OLA Cab Booking Analysis Dashboard (Excel + SQL + Power BI)
+### Power BI dashboard Demo 
+[ Click here towatch the video] (https://drive.google.com/file/d/1I3HgPFN-bB3kMeGaD3oBJD8fUBnQgMOH/view?usp=sharing)
+***The video demonstrates my interactive Power BI dashboard built for sales data analysis.
 
 Welcome to my end-to-end *Data Analytics Project* based on large-scale OLA cab booking data. This project demonstrates the complete data analysis workflow — from raw data cleaning in *Excel, data transformation using **SQL, to professional dashboard creation in **Power BI* — all built on a dataset of over *100,000 rows* representing bookings from January 2024.
 
